@@ -97,7 +97,7 @@ Buy low, sell high.
 ```
 |------- 10bps -------|------- 10bps -------|
 Buy Order          Fair Price          Sell Order
-$99,990             $100,000             $100,010
+$99,900             $100,000             $100,100
 ```
 
 - **Fair Price**: Based on Binance mid
