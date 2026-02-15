@@ -10,7 +10,7 @@ COPY src ./src
 
 RUN npm run build
 
-FROM node:25-slim
+FROM node:20-slim
 
 WORKDIR /app
 
