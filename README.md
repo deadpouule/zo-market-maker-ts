@@ -139,7 +139,6 @@ npm run bot -- ETH
 
 ```bash
 # Run market maker
-npm run bot -- btc
 
 # Market monitor
 npm run monitor -- btc
